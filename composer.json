@@ -1,6 +1,6 @@
 {
-    "name": "cnvs/paper",
-    "description": "Canvas Default Appearance",
+    "name": "soakdigi/olivia-theme",
+    "description": "Olivia Default Appearance",
     "keywords": ["canvas", "theme", "paper"],
     "type": "canvas-theme",
     "license": "MIT",
@@ -8,11 +8,16 @@
         {
             "name": "Todd Austin",
             "email": "austin.todd.j@gmail.com"
+        },
+        {
+            "name": "Soak Digital",
+            "email": "contact@wearesoak.com.com"
         }
+        
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Paper",
+            "title": "Olivia Theme",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
